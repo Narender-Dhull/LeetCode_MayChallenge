@@ -25,11 +25,7 @@ namespace RansomNote
                 if (index >= 0) { ransomeLettersList.RemoveAt(index); };
             }
 
-            if (ransomeLettersList.Count > 0)
-            {
-                return false;
-            }
-            return true;
+            return ransomeLettersList.Count > 0;
         }
     }
 }
