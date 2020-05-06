@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\Ra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberComplement", "NumberComplement\NumberComplement.csproj", "{54589C92-276C-4ED8-AE0C-EC61BD938519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInAString", "FirstUniqueCharacterInAString\FirstUniqueCharacterInAString.csproj", "{64BBA294-33B6-492C-BF33-C7F103197008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstUniqueCharacterInAString", "FirstUniqueCharacterInAString\FirstUniqueCharacterInAString.csproj", "{64BBA294-33B6-492C-BF33-C7F103197008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{41526832-B27C-49EF-8360-79330AB1D011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{64BBA294-33B6-492C-BF33-C7F103197008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64BBA294-33B6-492C-BF33-C7F103197008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64BBA294-33B6-492C-BF33-C7F103197008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41526832-B27C-49EF-8360-79330AB1D011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41526832-B27C-49EF-8360-79330AB1D011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41526832-B27C-49EF-8360-79330AB1D011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41526832-B27C-49EF-8360-79330AB1D011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
