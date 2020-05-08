@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstUniqueCharacterInAStri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{41526832-B27C-49EF-8360-79330AB1D011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CousinsInBinaryTree", "CousinsInBinaryTree\CousinsInBinaryTree.csproj", "{D365E476-A424-4BEF-AB54-083A5E4E5899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CousinsInBinaryTree", "CousinsInBinaryTree\CousinsInBinaryTree.csproj", "{D365E476-A424-4BEF-AB54-083A5E4E5899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsAStraightLine", "CheckIfItIsAStraightLine\CheckIfItIsAStraightLine.csproj", "{B3867984-AF9E-425F-A9D1-32D557FB5442}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D365E476-A424-4BEF-AB54-083A5E4E5899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D365E476-A424-4BEF-AB54-083A5E4E5899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D365E476-A424-4BEF-AB54-083A5E4E5899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3867984-AF9E-425F-A9D1-32D557FB5442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3867984-AF9E-425F-A9D1-32D557FB5442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3867984-AF9E-425F-A9D1-32D557FB5442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3867984-AF9E-425F-A9D1-32D557FB5442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
