@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPerfectSquare", "Valid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheTownJudge", "FindTheTownJudge\FindTheTownJudge.csproj", "{91CD51CF-B7AA-43C3-AC98-FA4352A97BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleElementInASortedArray", "SingleElementInASortedArray\SingleElementInASortedArray.csproj", "{17FA0E93-FB51-4816-BF9A-843ECC6A6E97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleElementInASortedArray", "SingleElementInASortedArray\SingleElementInASortedArray.csproj", "{17FA0E93-FB51-4816-BF9A-843ECC6A6E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveKdigits", "RemoveKdigits\RemoveKdigits.csproj", "{11874B51-B027-4E2D-BDAA-1FD0370B2155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{17FA0E93-FB51-4816-BF9A-843ECC6A6E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17FA0E93-FB51-4816-BF9A-843ECC6A6E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17FA0E93-FB51-4816-BF9A-843ECC6A6E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11874B51-B027-4E2D-BDAA-1FD0370B2155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11874B51-B027-4E2D-BDAA-1FD0370B2155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11874B51-B027-4E2D-BDAA-1FD0370B2155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11874B51-B027-4E2D-BDAA-1FD0370B2155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

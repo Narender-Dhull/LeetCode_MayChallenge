@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace SingleElementInASortedArray
 {
@@ -6,9 +7,12 @@ namespace SingleElementInASortedArray
     {
         static void Main(string[] args)
         {
+            Stopwatch watch = new Stopwatch();
+            watch.Start();
             int[] input = { 1, 1, 2, 3, 3, 4, 4, 8, 8 };
-
             Console.WriteLine(SingleNonDuplicate(input));
+            Console.WriteLine(watch.ElapsedMilliseconds);
+            watch.Stop();
             Console.ReadKey();
         }
 
